@@ -1,3 +1,4 @@
 first line 
 second line from new branch
 third line from main branch
+third line from conflict_branch
